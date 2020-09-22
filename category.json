@@ -89,6 +89,17 @@
       "id": 20,
       "name": "Minions",
       "link_image": "http://www.supercoloring.com/sites/default/files/styles/coloring_full/public/cif/2018/01/flower-mandala-15-coloring-page.png"
+    },
+    {
+      "id": 67,
+      "name": "Angry Birds",
+      "link_image": "http://www.supercoloring.com/sites/default/files/styles/coloring_full/public/cif/2018/01/flower-mandala-15-coloring-page.png"
+    }
+    ,
+    {
+      "id": 68,
+      "name": "Monster",
+      "link_image": "http://www.supercoloring.com/sites/default/files/styles/coloring_full/public/cif/2018/01/flower-mandala-15-coloring-page.png"
     }
   ],
   "status": 200
