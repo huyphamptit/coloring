@@ -31,6 +31,11 @@
       "link_image": "http://print-and-color.com/wp-content/uploads/fortnite_001.png"
     },
     {
+      "id": 70,
+      "name": "Coloring Pages for Adults",
+      "link_image": "http://print-and-color.com/wp-content/uploads/fortnite_001.png"
+    },
+    {
       "id": 5,
       "name": "MY LITTLE PONY",
       "link_image": "http://print-and-color.com/wp-content/uploads/my_little_pony_000.png"
@@ -99,8 +104,7 @@
       "id": 67,
       "name": "Angry Birds",
       "link_image": "http://www.supercoloring.com/sites/default/files/styles/coloring_full/public/cif/2018/01/flower-mandala-15-coloring-page.png"
-    }
-    ,
+    },
     {
       "id": 68,
       "name": "Monster",
