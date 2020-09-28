@@ -11,6 +11,11 @@
       "link_image": "http://print-and-color.com/wp-content/uploads/pokemon_001.png"
     },
     {
+      "id": 76,
+      "name": "The best collection of all Pokémon",
+      "link_image": "http://print-and-color.com/wp-content/uploads/pokemon_001.png"
+    },
+    {
       "id": 2,
       "name": "Naruto",
       "link_image": "http://print-and-color.com/wp-content/uploads/naruto_001.png"
@@ -59,6 +64,11 @@
       "id": 6,
       "name": "lol dolls",
       "link_image": "http://print-and-color.com/wp-content/uploads/lol_dolls_000.png"
+    },
+    {
+      "id": 75,
+      "name": "Super Wings",
+      "link_image": "http://www.supercoloring.com/sites/default/files/styles/coloring_full/public/cif/2018/01/flower-mandala-15-coloring-page.png"
     },
     {
       "id": 7,
