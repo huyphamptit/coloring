@@ -1,0 +1,10 @@
+{
+  "results": [
+    { "name": "Brazil" },
+    { "name": "Nigeria" },
+    { "name": "Bangladesh" },
+    { "name": "Russia" },
+    { "name": "Mexico" }
+  ],
+  "count": 100
+}
